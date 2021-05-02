@@ -3,7 +3,7 @@ Terminal: heroku apps: create <your-app> <br>
 Terminal: cd <your-project> <br>
 Terminal: touch index.php <br>
 Open file index.php to add this code below <br>
-<?php header( 'Location: /index.html' ) ;  ?>
+  <code><?php header( 'Location: /index.html' ) ;  ?></code>
 Terminal: git init <br>
 Terminal: git add .<br>
 Terminal: git commit -m "your-comment"<br>
